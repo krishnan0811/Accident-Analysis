@@ -83,7 +83,7 @@ The dashboard helps in understanding accident patterns and supports data-driven 
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ---
 
