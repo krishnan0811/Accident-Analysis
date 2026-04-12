@@ -84,7 +84,7 @@ The dashboard helps in understanding accident patterns and supports data-driven 
 ---
 
 ##  Dashboard Preview
-<img width="1366" height="705" alt="image" src="https://github.com/user-attachments/assets/737c3507-76ce-4390-a6b1-ab73c7f2f728" />
+<img width="1366" height="705" alt="image" src="https://github.com/krishnan0811/Accident-Analysis/blob/main/Road%20accident%20analysis%20img.png" />
 
 
 
